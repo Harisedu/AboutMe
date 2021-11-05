@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Harisedu
+- 👀 I’m interested in Coding with Python and Java
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on Minecraft Plugins
+- 📫 How to reach me (Contact me on Discord P85_#4892)
