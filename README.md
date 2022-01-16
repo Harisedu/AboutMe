@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haris Ali
 - 🙂 I,m 17 Years old 
-- 👀 I’m interested in Coding with Python and Java
+- 👀 I’m interested in Coding with Python and Java and Web Development
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Minecraft Plugins
 - 📫 How to reach me (Contact me on Discord Haris Ali#5342)
